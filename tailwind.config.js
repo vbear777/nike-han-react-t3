@@ -23,11 +23,11 @@ export default {
       },
       colors: {
         'primary': "#ECEEFF",
-        "purpledark": "#1f1823",
+        "purple-dark": "#1f1823",
         "grape": "#382b3f",
         "midnight": "#0c080d",
-        "brightpurple": "#52425c",
-        "transparentpur": "rgba(122, 98, 132, 0.86)"
+        "bright-purple": "#52425c",
+        "transparent-purple": "rgba(122, 98, 132, 0.86)"
       },
       boxShadow: {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'
