@@ -1,4 +1,4 @@
-import arrowRight from './arrow-right.svg'
+import { ArrowRight } from 'lucide-react'
 import chevronLeft from './chevron-left.svg'
 import cheveronRight from './chevron-right.svg'
 import copyrightSign from './copyright-sign.svg'
@@ -12,7 +12,7 @@ import truckFast from './truck-fast.svg'
 import twitter from './twitter.svg'
 
 export {
-    arrowRight,
+    ArrowRight,
     cheveronRight,
     chevronLeft,
     copyrightSign,
