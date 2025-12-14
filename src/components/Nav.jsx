@@ -1,4 +1,4 @@
-import headerLogo from "../assets/images/header-logo.svg";
+import { headernike } from "../assets/images";
 import hamburger from "../assets/icons/hamburger.svg";
 import { navLinks } from "../constants";
 
@@ -8,7 +8,7 @@ const Nav = () => {
             <nav className="flex justify-between items-center max-container ">
                 <a href="/">
                     <img 
-                        src={headerLogo} 
+                        src={headernike} 
                         alt="Logo"
                         width={130}
                         height={29} />
@@ -18,7 +18,7 @@ const Nav = () => {
                         <li key={item.label}>
                             <a 
                                 href={item.href}
-                                className="font-monstserrat leading-normal text-xl text-gray-500"
+                                className="font-monstserrat leading-normal font-bold text-xl text-midnight"
                             >
                                 {item.label}
                             </a>

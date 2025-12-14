@@ -9,7 +9,7 @@
   }
 
   .input {
-    @apply sm:flex-1 max-sm:w-full text-base leading-normal text-grape pl-5 max-sm:p-5 outline-none sm:border-none border max-sm:border-grape max-sm:rounded-full;
+    @apply sm:flex-1 max-sm:w-full text-base leading-normal text-red pl-5 max-sm:p-5 outline-none sm:border-none border max-sm:border-grape max-sm:rounded-full;
   }
 }
 
@@ -43,7 +43,7 @@
   }
 
   .info-text {
-    @apply font-montserrat text-grape text-lg leading-7;
+    @apply font-montserrat text-red text-lg leading-7;
   }
 }
 
