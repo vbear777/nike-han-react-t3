@@ -43,7 +43,7 @@
   }
 
   .info-text {
-    @apply font-montserrat text-red text-lg leading-7;
+    @apply font-montserrat text-gray-700 text-lg leading-7;
   }
 }
 
