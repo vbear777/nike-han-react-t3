@@ -1,4 +1,4 @@
-const Button = ({ label, icon: Icon, backgroundColor, textColor, borderColor }) => {
+const Button = ({ label, icon: Icon, backgroundColor, textColor, borderColor, fullWidth }) => {
     return (
         <button 
             className={`relative overflow-hidden
@@ -17,7 +17,8 @@ const Button = ({ label, icon: Icon, backgroundColor, textColor, borderColor }) 
                         ${backgroundColor ? 
                             ` ${backgroundColor} ${textColor} ${borderColor}` : 
                             "text-white bg-red border-blood"
-                        }            
+                        }
+                        ${fullWidth && 'w-full'}
             `}>
             <span className="relative z-10">{label}</span>
 
