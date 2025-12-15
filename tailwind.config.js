@@ -28,7 +28,8 @@ export default {
         "midnight": "#0c080d",
         "blood": "#75020f",
         "burgundy": "#520102",
-        "transparent-red": "rgba(194, 165, 165, 0.86)"
+        "transparent-red": "rgba(194, 165, 165, 0.86)",
+        "golden": "#bf932a"
       },
       boxShadow: {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'
