@@ -17,12 +17,10 @@ const SuperQuality = () => {
                 <p className="mt-4 lg:max-w-lg info-text ">
                     Featuring a modern design and premium quality, Nike Super Quality offers maximum comfort and a sporty look. 
                     Made from carefully selected materials with neat and precise detailing, this product provides excellent 
-                    durability and comfort for various activities, from sports to everyday casual wear. With strong stitching, 
-                    soft yet durable materials, and a design that follows the latest trends.
+                    durability and comfort for various activities, from sports to everyday casual wear. 
                 </p>
                 <p className="mt-6 lg:max-w-lg info-text">
-                    Nike Super Quality is the perfect choice for those who value both performance and style in one product. 
-                    Suitable for active lifestyles, traveling, or enhancing your daily appearance to stay stylish and confident.
+                    Nike Super Quality is the perfect choice for those who value both performance and style in one product.
                 </p>
                 <div className="mt-11">
                     <Button label="View details"/>
