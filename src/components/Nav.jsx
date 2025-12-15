@@ -18,7 +18,16 @@ const Nav = () => {
                         <li key={item.label}>
                             <a 
                                 href={item.href}
-                                className="font-monstserrat leading-normal font-bold text-xl text-midnight"
+                                className="relative font-montserrat font-bold text-xl text-midnight
+                                            transition-transform duration-300 ease-out
+                                            hover:translate-x-2
+
+                                            after:content-['']
+                                            after:absolute after:left-0 after:-bottom-2
+                                            after:h-[3px] after:w-0
+                                            after:bg-midnight
+                                            after:transition-all after:duration-300
+                                            hover:after:w-full"
                             >
                                 {item.label}
                             </a>
