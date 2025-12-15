@@ -1,3 +1,23 @@
+
+![Banner 1](./src/assets/documentations/nike1.JPG)
+![Banner 2](./src/assets/documentations/nike2.JPG)
+![Banner 3](./src/assets/documentations/nike3.JPG)
+![Banner 4](./src/assets/documentations/nike4.JPG)
+![Banner 5](./src/assets/documentations/nike5.JPG)
+![Banner 6](./src/assets/documentations/nike6.JPG)
+
+# 🎨 Nike | Landing Page
+
+## 🛠 Tech Stack
++ React
++ Javascript
++ Tailwind CSS
++ Vite
+
+##📧 Email: 
+[hanifwalian@gmail.com](mailto:hanifwalian@gmail.com)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
