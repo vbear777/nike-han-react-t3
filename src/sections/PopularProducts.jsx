@@ -12,8 +12,8 @@ const PopularProducts = () => {
                 <h2 className="text-4xl font-palanquin font-bold">Our <span className="text-red">Popular</span> Products</h2>
                 <p className="lg:max-w-lg mt-2 font-montserrat text-gray-400">
                     Nike presents a collection of favorite footwear featuring iconic design, innovative technology, and 
-                    maximum comfort. <span className="text-blood">Disclaimer</span> : <span className="text-golden underline">This website is a personal portfolio project and is not affiliated with or endorsed 
-                    by Nike. you can go to their official website to the real transaction ask my anything on my email: 
+                    maximum comfort. <span className="text-blood">Disclaimer</span> : <span className="text-golden italic">This website is a personal portfolio project and is not affiliated with or endorsed 
+                    by Nike. you can go to their official website to the real transaction ask me anything on my email: 
                     hanifwalian@gmail.com
                     </span>
                 </p>
